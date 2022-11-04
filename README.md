@@ -1,5 +1,5 @@
 Hi!
 
-I am knowledgeable in Python. I dabble with other languages however, with various amounts of success.
+I am proficient in Python. I dabble with other languages like C(++) however, just with various amounts of success (usually little).
 
 [https://samicrusader.me](https://samicrusader.me)

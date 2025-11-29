@@ -25,5 +25,5 @@ jobs:
           plugin_languages_skipped: samicrusader/Python-2.7.18, samicrusader/squashfs-tools-3.4
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 180
